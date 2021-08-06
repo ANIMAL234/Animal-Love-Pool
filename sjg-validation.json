@@ -3,6 +3,6 @@
 "ticker":"ALP",
 "discordId":"393269069840777218",
 "pool-list":"true",
-"poolMetaData":"https://xstakepool.com/xstakepool.json",
+"poolMetaData":"https://raw.githubusercontent.com/ANIMAL234/Animal-Love-Pool/main/poolMetaData.json",
 "validation":"https://xstakepool.com/sjg-validation.json"
 }
